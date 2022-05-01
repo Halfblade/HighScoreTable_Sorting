@@ -1,0 +1,13 @@
+C:\Users\leahm\OneDrive\Documents\PG1\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\leahm\OneDrive\Documents\PG1\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\leahm\OneDrive\Documents\PG1\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\leahm\OneDrive\Documents\PG1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csprojAssemblyReference.cache
+C:\Users\leahm\OneDrive\Documents\PG1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\leahm\OneDrive\Documents\PG1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
+D:\FullsailFolder\Year 1\PG!2\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+D:\FullsailFolder\Year 1\PG!2\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+D:\FullsailFolder\Year 1\PG!2\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+D:\FullsailFolder\Year 1\PG!2\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.AssemblyReference.cache
+D:\FullsailFolder\Year 1\PG!2\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+D:\FullsailFolder\Year 1\PG!2\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+D:\FullsailFolder\Year 1\PG!2\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
